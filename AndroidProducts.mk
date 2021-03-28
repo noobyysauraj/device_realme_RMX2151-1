@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nad_RMX2151.mk
+    $(LOCAL_DIR)/aosp_RMX2151.mk
