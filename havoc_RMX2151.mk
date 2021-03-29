@@ -24,7 +24,7 @@ $(call inherit-product, device/realme/RMX2151/device.mk)
 # Inherit some common Lineage OS stuff.
 $(call inherit-product, vendor/havoc/config/common_full_phone.mk)
 TARGET_GAPPS_ARCH := arm64
-TARGET_BOOT_ANIMATION_RES := 720
+TARGET_BOOT_ANIMATION_RES := 1080
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := havoc_RMX2151
 PRODUCT_DEVICE := RMX2151
