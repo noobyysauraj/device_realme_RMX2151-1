@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_RMX2151.mk
+    $(LOCAL_DIR)/dot_RMX2151.mk
